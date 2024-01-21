@@ -1,5 +1,6 @@
 # IAWA
-Source code for Interval Agreement Weighted Average
+Source code for Interval Agreement Weighted Average (IAWA).
+
 These codes are for the sensitivity analysis of the Interval Agreement Weighted Average (IAWA) method.
 
 For details of the method, please refer to our paper: "Interval Agreement Weighted Average – Sensitivity to Data Set Features."
